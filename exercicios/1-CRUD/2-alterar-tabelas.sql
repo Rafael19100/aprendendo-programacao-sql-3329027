@@ -4,3 +4,4 @@
 -- Na tabela employees, adicione uma coluna para receber o id_salario
  ALTER TABLE employees
  ADD id_salario INTEGER;
+ 
